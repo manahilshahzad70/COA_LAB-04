@@ -56,17 +56,6 @@ The `lw` instruction was then used to load each array element into registers `s0
 
 - Venus RISC-V Simulator
 
-### Topics Covered
-
-- RISC-V Assembly Language
-- Register-Level Execution
-- Arithmetic Instructions
-- Bitwise Logical Instructions
-- Memory Access and Load Instructions
-- Arrays and Loops
-- Branching and Jump Instructions
-- Function Calls and Return Instructions
-
 ### Conclusion
 
 This lab provided practical experience with RISC-V assembly programming using the Venus simulator. The execution of arithmetic and logical instructions helped develop an understanding of register-level operations, while the array-processing tasks demonstrated memory addressing, data loading, loops, and branching. The results were verified through simulation.
